@@ -1,5 +1,3 @@
-# Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -20,8 +18,7 @@
 
 title: Home
 email: stelzerartgallery@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  An art gallery website dedicated to the late Florence Stelzer.
+description: An art gallery website dedicated to the late Florence Stelzer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stelzerartgallery.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
