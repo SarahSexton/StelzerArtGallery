@@ -1,6 +1,6 @@
 # Stelzer Art Gallery
 
-An art gallery website dedicated to the late Florence Stelzer.
+An art gallery website dedicated to the works of the late Florence Stelzer.
 
 ## Features
 - Responsive grid layout for images and categories
